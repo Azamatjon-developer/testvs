@@ -9,6 +9,7 @@ const Navbar = () => {
       {/* logo start  */}
       <div className={`${stules.heading}`}>
         <img src={logo} alt="images logo" className='w-[130px] h-[80px]' />
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia sapiente dolorem officiis nihil repellat assumenda, numquam similique ab laborum itaque. Ipsa consectetur maiores praesentium dolores dolor, sunt cupiditate iste veritatis?</p>
       </div>
       {/* Navigation links start */}
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
